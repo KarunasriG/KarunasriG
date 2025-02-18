@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about building
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Backend projects
-- 🌱 I’m currently learning Backend & Frontend development
-- 👯 I’m looking to collaborate on: Open-source projects and innovative web applications
-- 🤔 I’m looking for help with: Advanced backend optimization techniques
-- 💬 Ask me about: Python, Java, JavaScript, Express.js
+- 🔭 I’m currently exploring Frontend & Backend development
+- 🌱 I’m looking to collaborate on Open-source projects and innovative web applications
+- ✨ I'm passionate about the world of web and love building products that impact people's lives
+- 💬 Ask me about Web, Frontend, Backend, API, and Queries in SQL
 - 📫 How to reach me: gaddamkarunasri679@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts:
