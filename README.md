@@ -13,10 +13,15 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about building
 - ⚡ Fun facts:
      I’m an avid papercraft artist and love creating unique designs.
      I enjoy dancing and can never resist a good groove!
-     When I'm not coding, you can find me experimenting with new cuisines in the kitchen.
+     When I'm not coding, I experimented with new cuisines in the kitchen.
      I'm always up for a sunrise or sunset walk to start or end my day!
 
 ---
+
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,expressjs,jest,sqlite,sequelize,supabase,postgresql,mongodb,git,github)](https://skillicons.dev)
+
+<!--
 
 ## 🛠️ Technologies & Tools
 
@@ -28,6 +33,7 @@ Here are some of the technologies and tools I work with:
 - **Tools & Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
 
 ## 📂 Featured Projects (Backend-Focused)
 
@@ -56,7 +62,7 @@ Here are some of the backend projects I've built:
      - File validation (type/size) and metadata tracking.  
      - Secure file storage using Cloudinary.  
    - **Tech Stack**: Node.js, Express.js, Supabase, Cloudinary.   
-
+-->
 ---
 
 ## 📊 GitHub Stats
@@ -69,7 +75,7 @@ Here are some of the backend projects I've built:
 
 ## 🌟 Let's Connect!
 
-Feel free to reach out to me for collaborations, questions, or just to say hi!
+Feel free to contact me for collaborations, or questions, or just to say hi!
 
 - LinkedIn: [Karuna Sri Gaddam](https://www.linkedin.com/in/karuna-sri-gaddam/)
 - Portfolio: [My Portfolio](https://karunasrig.github.io/MyPortfolio/)
