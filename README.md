@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about building
 ---
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,expressjs,jest,sqlite,sequelize,supabase,postgresql,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,html,css,js,bootstrap,sass,react,nodejs,expressjs,jest,sqlite,sequelize,supabase,postgresql,mongodb,git,github)](https://skillicons.dev)
 
 <!--
 
