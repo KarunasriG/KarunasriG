@@ -78,4 +78,6 @@ Feel free to contact me for collaborations, questions, or just to say hi!
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=KarunaSrie&color=blue)  
+
 Thanks for visiting! 😊
