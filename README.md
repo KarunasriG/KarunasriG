@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about building
 - 💬 Ask me about Web, Frontend, Backend, API, and Queries in SQL
 - 📫 How to reach me: gaddamkarunasri679@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts:
-     I’m an avid papercraft artist and love creating unique designs.
-     I enjoy dancing and can never resist a good groove!
-     When I'm not coding, I experimented with new cuisines in the kitchen.
-     I'm always up for a sunrise or sunset walk to start or end my day!
 
 ---
 
@@ -75,7 +70,7 @@ Here are some of the backend projects I've built:
 
 ## 🌟 Let's Connect!
 
-Feel free to contact me for collaborations, or questions, or just to say hi!
+Feel free to contact me for collaborations, questions, or just to say hi!
 
 - LinkedIn: [Karuna Sri Gaddam](https://www.linkedin.com/in/karuna-sri-gaddam/)
 - Portfolio: [My Portfolio](https://karunasrig.github.io/MyPortfolio/)
