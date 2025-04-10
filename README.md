@@ -1,6 +1,6 @@
 # Hi there, I'm Karuna Sri! 👋
 
-Welcome to my GitHub profile! I'm a Software Developer passionate about building scalable applications, solving data problems, and creating responsive web pages. Here, you'll find a collection of my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm a Full Stack Developer passionate about building scalable applications, solving data problems, and creating responsive web pages. Here, you'll find a collection of my projects, contributions, and experiments.
 
 ## 🚀 About Me
 
