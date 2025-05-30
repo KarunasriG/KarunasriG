@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ## 🚀 About Me
 
-- 🔭 I’m currently exploring Frontend & Backend development
-- 🌱 I’m looking to collaborate on Open-source projects and innovative web applications
-- ✨ I'm passionate about the world of web and love building products that impact people's lives
-- 💬 Ask me about Web, Frontend, Backend, API, and Queries in SQL
-- 📫 How to reach me: gaddamkarunasri679@gmail.com
-- 😄 Pronouns: She/Her
+- 🔭 Currently exploring **Frontend** & **Backend** development
+- 🌱 Looking to collaborate on **open-source projects** and **innovative web applications**
+- ✨ Passionate about the **web ecosystem** and love building products that make an impact
+- 💬 Ask me about:  `Frontend` & `Backend` 
+- 📫 Reach me at: **gaddamkarunasri679@gmail.com**
+- 😄 Pronouns: **She/Her**
 
 ---
 
